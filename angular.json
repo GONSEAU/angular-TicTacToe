@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "tictactoe"
+  "defaultProject": "tictactoe",
+  "cli": {
+    "analytics": "6b7bfc2d-7d34-40ff-909c-5ea75d612fb5"
+  }
 }
